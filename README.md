@@ -8,7 +8,7 @@
 
 O projeto desenvolvido, foi para a exploração do conceito de GRID, prezando também pela organização dos arquivos, no qual construimos um site de notícias de tecnologias, 
 
-[🔗 Veja o projeto](https://fesette.github.io/)
+[🔗 Veja o projeto](https://fesette.github.io/Portal-Noticias/)
 
 ## 🛠️ Tecnologias
 
